@@ -1,6 +1,9 @@
 # 09实现一个Webpack Plugin——HtmlWebpackPlugin
 功能：实现一个HtmlWebpackPlugin，根据配置自动生成 HTML 文件，而无需手动创建或维护一个静态 HTML 文件，能动态改标题，自定义模板等等
 
+## 代码路径
+plugins/my-HtmlWebpackPlugin.js
+
 ## 安装依赖
 npm install marked
 
